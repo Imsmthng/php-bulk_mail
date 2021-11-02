@@ -1,2 +1,2 @@
 # php-bulk_mail
-Send Email to Multiple recipient using phpmailer
+Send Email from localhost to multiple reciepients using gmail and phpmailer
